@@ -1,0 +1,6 @@
+@dotnet_pagination_basics_HostAddress = http://localhost:5293
+
+GET {{dotnet_pagination_basics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

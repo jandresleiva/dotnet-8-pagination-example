@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-pagination-basics", "dotnet-pagination-basics.csproj", "{CE0C1FD4-B9A5-1906-68DB-D3B461B2F5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE0C1FD4-B9A5-1906-68DB-D3B461B2F5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0C1FD4-B9A5-1906-68DB-D3B461B2F5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0C1FD4-B9A5-1906-68DB-D3B461B2F5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0C1FD4-B9A5-1906-68DB-D3B461B2F5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B429C5-1885-448F-A00B-C7057BE6BD2C}
+	EndGlobalSection
+EndGlobal
