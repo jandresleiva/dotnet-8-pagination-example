@@ -4,6 +4,10 @@ This repository contains a minimal example of implementing **pagination** in a .
 
 It uses the default **WeatherForecast** template, extended to generate 100 sample entries in memory. Pagination is applied in the service layer with support for an optional `totalCount`.
 
+Here you can find the full article [Minimalistic Pagination in .NET 8 (LTS) Using a Record DTO](https://medium.com/@andresleiva.4/minimalistic-pagination-in-net-8-lts-using-a-record-dto-836f3d3be6fb).
+
+Feel free to navigate my other articles at [Medium](https://medium.com/@andresleiva.4).
+
 ---
 
 ## Features
@@ -94,3 +98,4 @@ Pagination should always be applied on a sorted query to keep page boundaries co
 ## License
 
 This repository is provided for educational purposes and is licensed under the MIT License.
+
